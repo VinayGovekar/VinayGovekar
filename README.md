@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vinaygovekar24@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1QiiIzHuQykPrvYJBYUHiJPUfPcCc2YR3/edit?usp=drive_link&ouid=104803254650263141015&rtpof=true&sd=true](https://docs.google.com/document/d/1QiiIzHuQykPrvYJBYUHiJPUfPcCc2YR3/edit?usp=drive_link&ouid=104803254650263141015&rtpof=true&sd=true)
+- 📄 Know about my experiences [Vinay_Govear_Resume](https://docs.google.com/document/d/1QiiIzHuQykPrvYJBYUHiJPUfPcCc2YR3/edit?usp=drive_link&ouid=104803254650263141015&rtpof=true&sd=true)
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
